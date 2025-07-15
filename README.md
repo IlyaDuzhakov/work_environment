@@ -1,2 +1,1 @@
-
 ![CI](https://github.com/IlyaDuzhakov/work_environment/actions/workflows/web.yml/badge.svg)
